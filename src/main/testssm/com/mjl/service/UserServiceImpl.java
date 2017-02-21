@@ -49,4 +49,8 @@ public class UserServiceImpl implements UserService {
         }
 
     }
+    public void addUser(String name,String password)
+    {
+
+    }
 }
