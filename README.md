@@ -7,7 +7,7 @@ Main类表示启动类.
 2.执行程序  
 1)命令行窗口切换到Main.java所在文件目录  
 
-2)执行 javac -encoding gbk Main.java  
+2)执行 javac -encoding utf-8 Main.java  
 
 3)执行 java Main  
 
